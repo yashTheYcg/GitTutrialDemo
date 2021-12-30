@@ -1,0 +1,1 @@
+added new file after learning git hub, how to add repistry and push the code
